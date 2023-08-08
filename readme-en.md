@@ -81,7 +81,7 @@ I have an even greater interest in understanding how things work, especially in 
 <img width=42 height=42 src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel icon" title="Vercel" />
 
 <!-- Netlify -->
-<img width=42 height=42 src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify icon" title="Netlify" />...
+<img width=42 height=42 src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify icon" title="Netlify" />
 
   
 </div>
