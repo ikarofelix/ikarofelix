@@ -1,6 +1,16 @@
-<h1 align="center">Ikaro Felix Mendes Pinheiro</h1>
+<div align="right">
+  <a href="https://github.com/ikarofelix/ikarofelix/blob/main/readme-en.md">
+   <img width=48 src="https://flagcdn.com/128x96/us.png" alt="English readme" title="English readme" />
+  </a>
+  <a href="https://github.com/ikarofelix/ikarofelix/blob/main/README.md">
+   <img width=48 src="https://flagcdn.com/128x96/br.png" alt="Readme em português" title="Readme em português" />
+  </a>
+</div>
 
-<h6 align="center">Desenvolvedor Front-End</h6>
+<div align="center">
+  <h1>Ikaro Felix Mendes Pinheiro</h1>
+  <h6>Desenvolvedor Front-End</h6>
+</div>
 
 <div align="right">
      <a href="https://github.com/ikarofelix">
