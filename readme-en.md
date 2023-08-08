@@ -26,64 +26,81 @@ I have an even greater interest in understanding how things work, especially in 
 
 <h3>Skills</h3>
 <div align="center">
-  
-<img width=42 height=42 src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="HTML icon" title="HTML" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=html" alt="HTML icon" title="HTML" />
+</a>
 
- <!-- CSS -->
-<img width=42 height=42 src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="CSS icon" title="CSS" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=css" alt="CSS icon" title="CSS" />
+</a>
 
-<!-- SASS -->
-<img width=42 height=42 src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="SASS icon" title="SASS" />
+<a href="https://sass-lang.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=sass" alt="SASS icon" title="SASS" />
+</a>
 
-<!-- Styled Components -->
-<img  width=42 height=42 src="https://styled-components.com/atom.png" alt="Styled Components icon" title="Styled Components" />
+<a href="https://styled-components.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components icon" title="Styled Components" />
+</a>
 
-<!-- JavaScript -->
-<img width=42 height=42 src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" alt="JavaScript icon" title="JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" title="JavaScript" />
+</a>
 
-<!-- TypeScript -->
-<img width=42 height=42 src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript icon" title="TypeScript" />
+<a href="https://www.typescriptlang.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=typescript" alt="TypeScript icon" title="TypeScript" />
+</a>
 
-<!-- Node.js -->
-<img width=42 height=42 src="https://github.com/ikarofelix/ikarofelix/assets/117465215/aebcfb1b-7fbc-403a-ab71-7f2e77b029de" alt="Node.js icon" title="Node.js" />
+<a href="https://nodejs.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" title="Node.js" />
+</a>
 
-<!-- React -->
-<img width=42 height=42 src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" alt="React icon" title="React" />
+<a href="https://reactjs.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=react" alt="React icon" title="React" />
+</a>
 
-<!-- Redux -->
-<img width=42 height=42 src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" alt="Redux icon" title="Redux" />
+<a href="https://redux.js.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=redux" alt="Redux icon" title="Redux" />
+</a>
 
-<!-- Firebase -->
-<img width=42 height=42 src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" alt="Firebase icon" title="Firebase" />
+<a href="https://firebase.google.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=firebase" alt="Firebase icon" title="Firebase" />
+</a>
 
-<!-- MySQL -->
-<img width=42 height=42 src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" alt="MySQL icon" title="MySQL" />
+<a href="https://www.mysql.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" title="MySQL" />
+</a>
 
-<!-- GraphQL -->
-<img width=42 height=42 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL icon" title="GraphQL" />
+<a href="https://graphql.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=graphql" alt="GraphQL icon" title="GraphQL" />
+</a>
 
-<!-- Apollo GraphQL -->
-<img width=42 height=42 src="https://yt3.googleusercontent.com/zTLJVXrUEsKch_4gngY6CrTrYXa0W7T-ZlQ1Dhu_16GhkYD7GxIyzDLH6VPSLd7O0GbSLlvBGw=s900-c-k-c0x00ffffff-no-rj" alt="Apollo GraphQL icon" title="Apollo GraphQL" />
+<a href="https://www.apollographql.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=apollo" alt="Apollo GraphQL icon" title="Apollo GraphQL" />
+</a>
 
-<!-- Express -->
-<img width=42 height=42 src="https://camo.githubusercontent.com/9270fc40ed052b4158b76122cc9984c9c9670b717577d3e89497629fc25782e7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" alt="Express icon" title="Express" />
+<a href="https://expressjs.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=express" alt="Express icon" title="Express" />
+</a>
 
-<!-- JWT -->
-<img width=42 height=42 src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" alt="JWT icon" title="JWT" />
+<a href="https://vitejs.dev/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=vite" alt="Vite icon" title="Vite" />
+</a>
 
-<!-- Vite -->
-<img width=42 height=42 src="https://res.cloudinary.com/practicaldev/image/fetch/s--bsGEKH1C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cm21q6iefpnmz3railfs.png" alt="Vite icon" title="Vite" />
+<a href="https://www.figma.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=figma" alt="Figma icon" title="Figma" />
+</a>
 
-<!-- Figma -->
-<img width=42 height=42 src="https://logospng.org/download/figma/figma-2048.png" alt="Figma icon" title="Figma" />
+<a href="https://vercel.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=vercel" alt="Vercel icon" title="Vercel" />
+</a>
 
-<!-- Vercel -->
-<img width=42 height=42 src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="Vercel icon" title="Vercel" />
+<a href="https://www.netlify.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=netlify" alt="Netlify icon" title="Netlify" />
+</a>
 
-<!-- Netlify -->
-<img width=42 height=42 src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Netlify icon" title="Netlify" />
-
-  
+<a href="https://git-scm.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=git" alt="Git icon" title="Git" />
+</a>
 </div>
 
 <h3>Projects</h3>
