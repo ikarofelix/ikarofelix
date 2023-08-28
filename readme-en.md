@@ -42,6 +42,10 @@ I have an even greater interest in understanding how things work, especially in 
   <img width=42 height=42 src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components icon" title="Styled Components" />
 </a>
 
+<a href="https://tailwindcss.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind icon" title="Tailwind" />
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" title="JavaScript" />
 </a>
@@ -52,6 +56,10 @@ I have an even greater interest in understanding how things work, especially in 
 
 <a href="https://nodejs.org/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=nodejs" alt="Node.js icon" title="Node.js" />
+</a>
+
+<a href="https://nextjs.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=nextjs" alt="Next.js icon" title="Next.js" />
 </a>
 
 <a href="https://reactjs.org/">
@@ -107,9 +115,9 @@ I have an even greater interest in understanding how things work, especially in 
 <div align="center">
   
   [![Alzheimer Care](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=alzheimer-care&theme=dark)](https://github.com/ikarofelix/alzheimer-care)
-  [![Clothing E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=clothing-e-commerce&theme=dark)](https://github.com/ikarofelix/clothing-e-commerce)
-  [![Alzheimer Care Server](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=alzheimer-care-server&theme=dark)](https://github.com/ikarofelix/alzheimer-care-server)
   [![Panificadora Silva Rocha](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=panificadora-silva-rocha&theme=dark)](https://github.com/ikarofelix/panificadora-silva-rocha)
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=portfolio&theme=dark)](https://github.com/ikarofelix/portfolio)
+  [![Clothing E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=clothing-e-commerce&theme=dark)](https://github.com/ikarofelix/clothing-e-commerce)
 </div>
 
 <div align="center">
