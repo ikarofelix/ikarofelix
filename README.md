@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1>Ikaro Felix Mendes Pinheiro</h1>
-  <h6>Desenvolvedor Front-End</h6>
+  <h6>Desenvolvedor Full Stack</h6>
 </div>
 
 <div align="right">
@@ -45,6 +45,10 @@ Tenho um interesse ainda maior em entender como as coisas funcionam, especialmen
   <img width=42 height=42 src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind icon" title="Tailwind" />
 </a>
 
+<a href="https://www.python.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=python" alt="Python icon" title="Python" />
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=javascript" alt="JavaScript icon" title="JavaScript" />
 </a>
@@ -77,12 +81,24 @@ Tenho um interesse ainda maior em entender como as coisas funcionam, especialmen
   <img width=42 height=42 src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" title="MySQL" />
 </a>
 
+<a href="https://www.postgresql.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL icon" title="PostgreSQL" />
+</a>
+
 <a href="https://graphql.org/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=graphql" alt="GraphQL icon" title="GraphQL" />
 </a>
 
 <a href="https://www.apollographql.com/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=apollo" alt="Apollo GraphQL icon" title="Apollo GraphQL" />
+</a>
+
+<a href="https://www.djangoproject.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=django" alt="Django icon" title="Django" />
+</a>
+
+<a href="https://www.docker.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=docker" alt="Docker icon" title="Docker" />
 </a>
 
 <a href="https://expressjs.com/">
