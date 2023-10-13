@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1>Ikaro Felix Mendes Pinheiro</h1>
+  <h1>Ikaro Felix</h1>
   <h6>Desenvolvedor Full Stack</h6>
 </div>
 
