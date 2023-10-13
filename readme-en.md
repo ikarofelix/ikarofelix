@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <h1>Ikaro Felix Mendes Pinheiro</h1>
-  <h6>Front-End Developer</h6>
+  <h1>Ikaro Felix</h1>
+  <h6>Full Stack Developer</h6>
 </div>
 
 
@@ -25,7 +25,7 @@ I love technology and everything that surrounds it. That's why I chose to pursue
 I have an even greater interest in understanding how things work, especially in relation to databases and servers. That's why my goal is to specialize in Back-End in the future.
 
 <h3>Skills</h3>
-<div align="center">
+<div align="center">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=html" alt="HTML icon" title="HTML" />
 </a>
@@ -44,6 +44,10 @@ I have an even greater interest in understanding how things work, especially in 
 
 <a href="https://tailwindcss.com/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind icon" title="Tailwind" />
+</a>
+
+<a href="https://www.python.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=python" alt="Python icon" title="Python" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -78,12 +82,24 @@ I have an even greater interest in understanding how things work, especially in 
   <img width=42 height=42 src="https://skillicons.dev/icons?i=mysql" alt="MySQL icon" title="MySQL" />
 </a>
 
+<a href="https://www.postgresql.org/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL icon" title="PostgreSQL" />
+</a>
+
 <a href="https://graphql.org/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=graphql" alt="GraphQL icon" title="GraphQL" />
 </a>
 
 <a href="https://www.apollographql.com/">
   <img width=42 height=42 src="https://skillicons.dev/icons?i=apollo" alt="Apollo GraphQL icon" title="Apollo GraphQL" />
+</a>
+
+<a href="https://www.djangoproject.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=django" alt="Django icon" title="Django" />
+</a>
+
+<a href="https://www.docker.com/">
+  <img width=42 height=42 src="https://skillicons.dev/icons?i=docker" alt="Docker icon" title="Docker" />
 </a>
 
 <a href="https://expressjs.com/">
@@ -124,7 +140,7 @@ I have an even greater interest in understanding how things work, especially in 
   <a href="mailto:ikaroisdm@gmail.com">
     <img width=40 height=40 src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail icon" title="Gmail"/>
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5531998056550&text=Oi,%20vi%20seu%20GitHub&type=phone_number&app_absent=0">
+  <a href="https://api.whatsapp.com/send/?phone=%2B5531998056550&text=Hey,%20saw%20your%20GitHub&type=phone_number&app_absent=0">
     <img width=40 height=40 src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" alt="WhatsApp icon" title="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/ikarofelix">
