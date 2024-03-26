@@ -12,16 +12,12 @@
   <h6>Desenvolvedor Full Stack</h6>
 </div>
 
-<div align="right">
+<div align="center">
      <a href="https://github.com/ikarofelix">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarofelix&layout=compact&theme=dark"
-        alt="Linguagens mais usadas" align="right">
+        <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarofelix&layout=compact&theme=dark"
+        alt="Linguagens mais usadas">
     </a>
 </div>
-
-Adoro tecnologia e tudo o que a envolve. Por isso, escolhi trilhar o caminho do desenvolvimento web, unindo minha paixão pelo processo criativo, resolução de problemas e aprendizado contínuo. Fico fascinado com a habilidade de criar aplicações interativas e visualmente magníficas, capazes de causar um impacto significativo e melhorar a vida das pessoas.
-
-Tenho um interesse ainda maior em entender como as coisas funcionam, especialmente em relação a bancos de dados e servidores. Por isso, meu objetivo é me especializar em Back-End no futuro.
 
 <h3>Ferramentas</h3>
 <div align="center">  
