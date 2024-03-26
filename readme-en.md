@@ -13,16 +13,12 @@
 </div>
 
 
-<div align="right">
+<div align="center">
      <a href="https://github.com/ikarofelix">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarofelix&layout=compact&theme=dark"
+        <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarofelix&layout=compact&theme=dark"
         alt="Most used languages" align="right">
     </a>
 </div>
-
-I love technology and everything that surrounds it. That's why I chose to pursue the path of web development, combining my passion for the creative process, problem-solving, and continuous learning. I'm fascinated by the ability to create interactive and visually stunning applications, capable of making a significant impact and improving people's lives.
-
-I have an even greater interest in understanding how things work, especially in relation to databases and servers. That's why my goal is to specialize in Back-End in the future.
 
 <h3>Skills</h3>
 <div align="center">  
