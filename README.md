@@ -125,10 +125,20 @@
 <h3>Projetos</h3>
 <div align="center">
   
-  [![Alzheimer Care](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=alzheimer-care&theme=dark)](https://github.com/ikarofelix/alzheimer-care)
-  [![Panificadora Silva Rocha](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=panificadora-silva-rocha&theme=dark)](https://github.com/ikarofelix/panificadora-silva-rocha)
-  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=portfolio&theme=dark)](https://github.com/ikarofelix/portfolio)
-  [![Clothing E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=ikarofelix&repo=clothing-e-commerce&theme=dark)](https://github.com/ikarofelix/clothing-e-commerce)
+  <a href="https://www.stinkysocks.net/">
+    <img src="https://www.stinkysocks.net/assets/sshockey-circle-blue-296x300.png" alt="Stinky Socks" style="border: 1px solid #000; padding: 5px; width: 240px; height: 240px; border-radius: 30px; margin-right: 20px;">
+  </a>
+
+  <a href="https://www.michael-mueller-verlag.de/de/shop/">
+    <img src="https://www.michael-mueller-verlag.de/_next/image/?url=https%3A%2F%2Fwww.michael-mueller-verlag.de%2Fcdn%2Fassets%2F8257cbd1-1d44-4c92-bc88-6aae8e940ceb%3F&w=750&q=75" alt="Michael Muller Verlag" style="border: 1px solid #000; padding: 5px; width: 240px; height: 240px; border-radius: 30px; margin-right: 20px;">
+  </a>
+
+  <a href="https://places.wein.plus/en">
+    <img src="https://play-lh.googleusercontent.com/wme9LZKsA1IO1Iq2u13mspsYPuvi730fS5ila9p9KxSFEIhue79jlKBbgNqjQO2z53tK" alt="Wein Plus" style="border: 1px solid #000; padding: 5px; width: 240px; height: 240px; border-radius: 30px;">
+  </a>
+
+  <p style="text-align: right;">Michael Muller Verlag (Travelers Guide) - Em Desenvolvimento</p>
+
 </div>
 
 <div align="center">
